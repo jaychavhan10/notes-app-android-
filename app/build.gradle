@@ -5,7 +5,7 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.rushiranade.notes"
+        applicationId "com.jay.notes"
         minSdkVersion 14
         targetSdkVersion 30
         versionCode 1

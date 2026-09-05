@@ -1,4 +1,4 @@
-package com.rushiranade.notes;
+package com.jay.notes;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.rushiranade.notes", appContext.getPackageName());
+        assertEquals("com.jay.notes", appContext.getPackageName());
     }
 }

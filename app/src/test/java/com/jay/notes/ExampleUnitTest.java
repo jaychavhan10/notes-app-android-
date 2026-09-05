@@ -1,4 +1,4 @@
-package com.rushiranade.notes;
+package com.jay.notes;
 
 import org.junit.Test;
 
